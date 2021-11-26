@@ -1,3 +1,2 @@
-# general
-My main storage for projects
-You can find source code for small projects of mine here. You can read more about these projects on my site https://electrogamez.nl/
+# General
+A repo used for hosting source files of small projects that are documented on https://wouterdebruijn.nl/
